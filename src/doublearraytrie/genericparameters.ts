@@ -1,0 +1,9 @@
+export const TERM_CHAR = "\u0000"; // terminal character
+export const TERM_CODE = 0;        // terminal character code
+export const ROOT_ID = 0;          // index of root node
+export const NOT_FOUND = -1;       // traverse() returns if no nodes found
+export const BASE_SIGNED = true;
+export const CHECK_SIGNED = true;
+export const BASE_BYTES = 4;
+export const CHECK_BYTES = 4;
+export const MEMORY_EXPAND_RATIO = 2;
